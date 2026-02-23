@@ -24,6 +24,7 @@ A modern Flutter application for managing and discovering university activities,
 <img width="498" height="849" alt="image" src="https://github.com/user-attachments/assets/9fccef48-60f4-4836-8ff1-9418f32f4fd8" />
 <img width="494" height="855" alt="image" src="https://github.com/user-attachments/assets/abc89f89-de13-477f-88d3-b7698de2d449" />
 <img width="499" height="849" alt="image" src="https://github.com/user-attachments/assets/45d5c4a1-b0e2-4d8a-b491-f28dcca47b86" />
+<img width="496" height="1090" alt="image" src="https://github.com/user-attachments/assets/ea1b82df-5117-4c90-8fed-da8fb83151ef" />
 
 
 
